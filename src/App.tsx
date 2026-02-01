@@ -66,14 +66,6 @@ export default function Portfolio() {
         </Card>
 
         {/* Education */}
-        <Card className="bg-zinc-900 rounded-2xl md:col-span-2">
-          <CardContent className="p-6">
-            <h2 className="font-semibold text-lg">Education</h2>
-            <p className="text-sm text-zinc-300 mt-2">
-              Bachelor of Computer Science (2017–2021)
-            </p>
-          </CardContent>
-        </Card>
 
         {/* Contact */}
         <Card className="bg-zinc-900 rounded-2xl md:col-span-3">
